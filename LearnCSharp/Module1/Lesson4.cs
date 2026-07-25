@@ -5,7 +5,7 @@ namespace LearnCSharp
 {
     internal class Lesson4
     {
-        static void Main(string[] args)
+        static void OldMain(string[] args)
         {
             //int firstNumber = 12;
             //int secondNumber = 7;
@@ -61,7 +61,6 @@ namespace LearnCSharp
             decimal celcius = fahrenheit - 32m;
             celcius *= 5m / 9m;
             Console.WriteLine($"The temperature is {celcius} Celcius.");
-
 
 
         }
