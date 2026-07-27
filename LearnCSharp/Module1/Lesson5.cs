@@ -6,7 +6,7 @@ namespace LearnCSharp
 {
     internal class Lesson5
     {
-        static void Main(string[] args)
+        static void Lesson5Main(string[] args)
         {
             // initialize variables - graded assignments 
             int currentAssignments = 5;
